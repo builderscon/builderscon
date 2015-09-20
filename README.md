@@ -32,7 +32,7 @@ Anybody who is interested in tech, software or hardware.
 
 The main content of this conference are the talk sessions. Talk slots are either 20 or 50 minutes, plus 10 minutes of question and answer.
 
-The talks MUST NOT be a mere showcase of a prodcut or a tool. They MAY include introduction to tools, short advertisement for recruiting et al, but the main topic of the talks MUST incorporate topics that is directly beneficial to the attendees. For example:
+The talks MUST NOT be a mere showcase of a product or a tool. They MAY include introduction to tools, short advertisement for recruiting et al, but the main topic of the talks MUST incorporate topics that is directly beneficial to the attendees. For example:
 
 1. Problems encountered during development, and solutions
 2. Things that aid the developers, such as better development methods, how to use tools
@@ -52,4 +52,3 @@ Beacon yourself.
 Some restrictions:
 
 * You MUST follow the format presented by the committee
-
