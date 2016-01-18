@@ -18,6 +18,12 @@ This document describes what Beacon is, and what is required to host a Beacon.
 
 [http://builderscon.io](http://builderscon.io)
 
+## Slack
+
+[https://builderscon.slack.com](https://builderscon.slack.com)
+
+[Invite yourself!](https://inviteme-builderscon.herokuapp.com)
+
 ## Audience
 
 Anybody who is interested in tech, software or hardware.
