@@ -1,5 +1,9 @@
 # FAQ
 
+## If you host small conferences, wouldn't it be just a string of small meetups?
+
+Yes and no. Yes, it will be just a string of small meetups if we just let everything loose. We believe we can work out both large and small conferences to feel like part of one cohesive set of events, but details are still forming as we speak. Also see: "You say "all topics on technology are welcome". Isn't that kind of impossible?"
+
 ## You say "all topics on technology are welcome". Isn't that kind of impossible?
 
 Yes, catering to all audiences is impossible -- if you only have 1 conference. The design of Beacon is intentionally loose in terms of talk subject precisely for this reason.
