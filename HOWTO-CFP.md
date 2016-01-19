@@ -7,7 +7,6 @@ You should treat your would-be participants with as much respect as you can, pro
 ## Content To Call For
 
 * You MUST make absolutely clear in your CFP site is that this is a conference for people who MAKE stuff. The audience expects to learn from and about the speakers' experience.
-* You SHOULD NOT
 * You SHOULD NOT rule out for profit entities, but you MUST NOT give the impression that it's okay to give a sales spiel about a product.
 * Having said that, it is OK to include such material as long as it's not the main content.
 
@@ -40,3 +39,17 @@ the same content as the FAQ page or the product brochure.
 
 * You MUST create a mechanism to receive confirmation for accepted talks
 * You SHOULD disqualify any talks that do not get confirmed in a reasonable amount of time.
+
+## Special Considerations
+
+Conferences should try to be useful for sponsors. That is to say, the sponsors should get some sort of return of investment. However, as an organizer you MUST make sure the conference content does not simply conform to the wishes of your sponsors.
+
+An example of a bad appease the sponsor is to give them a talk slot with not much restriction. A typical good will gone wrong scenario would involve a random tech person being assigned to speak, but without the passion or the understanding of the conference. You should recognize that this is not only bad for the conference, but bad for the sponsor -- failed talks delivered to your audience may in fact have a negative impact (as opposed to no impact).
+
+If your sponsors insist on giving talks, make sure that they understand:
+
+* The conference is about technology
+* The audience WILL judge your company based on the content/quality of the presentation
+* You MUST NOT use the talk slot to pitch a product or solution. Mentioning is is allowed, but it MUST NOT be the main content.
+
+It is your responsibility as the organizer to make the conference worthwhile for your main audience, as well as for the sponsors. You MUST always keep the quality of the talks up to expectations to make this happen.
