@@ -11,3 +11,11 @@ You SHOULD prepare for accidents such as your staff or the attendees hurting the
 * The coverage details
 
 You should contact your local insurance company requesting for information on events. They usually have some sort of plan for you.
+
+You SHOULD make it clear to your attendees the scope of such coverage. 
+
+(Note: we need a document for prospective Beacon organizers to read, so that they agree that the main organizers/planners of Beacon cannot be held responsible for damages or lack of insurance coverage when an incident occurs)
+
+## Permits
+
+Depending on your venue, you may be required to provide paperwork stating that you will be hosting a gathering to the local authorities. In such cases, make sure to submit the necessary paperwork well before hand to obtain permits.
