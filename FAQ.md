@@ -1,5 +1,11 @@
 # FAQ
 
+## Is this about carpentry and construction? Or maybe IoT?
+
+No. This conference is intended for the _digital_ builders of the modern world.
+
+The community from which this conference emerged from primarily consists of people from Web/Mobile area, and therefore some weight will be placed on those topics. The point, however, is that we would like to welcome almost any subject matter provided that there is enough technical content that the intended audience can enjoy.
+
 ## If you host small conferences, wouldn't it be just a string of small meetups?
 
 Yes and no. Yes, it will be just a string of small meetups if we just let everything loose. We believe we can work out both large and small conferences to feel like part of one cohesive set of events, but details are still forming as we speak. Also see: "You say "all topics on technology are welcome". Isn't that kind of impossible?"
