@@ -1,6 +1,6 @@
 # Consent to Civility
 
-Beacon organizers and attendees MUST adhere to our terms for "Consent to Civility".
+builderscon organizers and attendees MUST adhere to our terms for "Consent to Civility".
 
 Being civil means a lot of different things. We are being explicitly vague, because we are not here for a witch hunt. Organizers and attendees are expected to act in a manner that does not make others uncomfortable, feel threatened, or otherwise be hurt.
 

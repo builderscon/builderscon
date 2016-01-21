@@ -1,8 +1,8 @@
-# Beacon
+# builderscon
 
-Beacon is a conference for modern age builders and architects.
+builderscon is a conference for modern age builders and architects.
 
-This document describes what Beacon is, and what is required to host a Beacon.
+This document describes what builderscon is, and what is required to host a builderscon.
 
 ## Status of This Document
 
@@ -42,12 +42,12 @@ For example, in Programming-Language centric conferences it is somewhat
 
 ## Release of Materials
 
-In general, all content from Beacon SHOULD be released to the public, including talk slides and recordings. Presenters MAY decline to release these materials, and Beacon organizers MUST ask for their explicit permission to do so. However in order for it to be "Beacon", the majority of the content MUST be released to the public.
+In general, all content from builderscon SHOULD be released to the public, including talk slides and recordings. Presenters MAY decline to release these materials, and builderscon organizers MUST ask for their explicit permission to do so. However in order for it to be "builderscon", the majority of the content MUST be released to the public.
 
-## Organizing Your Beacon
+## Organizing Your builderscon
 
-Upon signing an agreement with the Beacon committee, you are allowed to host
-Beacon yourself.
+Upon signing an agreement with the builderscon committee, you are allowed to host
+builderscon yourself.
 
 Some restrictions:
 

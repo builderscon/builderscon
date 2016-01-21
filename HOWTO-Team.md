@@ -1,6 +1,6 @@
 ## Volunteers
 
-Most likely your Beacon will require the help of at least a handful of
+Most likely your builderscon will require the help of at least a handful of
 volunteers to run. How you manage your team will no doubt vary depending
 on your location, financial situation, and many other conditions. Therefore
 items on this section are not necessary rules, but just suggestions regarding

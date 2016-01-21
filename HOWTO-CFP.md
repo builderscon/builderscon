@@ -1,6 +1,6 @@
 # Call For Paper/Participations
 
-Like any conference, the main attraction for Beacon is the talks that the participants bring.
+Like any conference, the main attraction for builderscon is the talks that the participants bring.
 
 You should treat your would-be participants with as much respect as you can, provided that they do not make it problematic to proceed with the event organization.
 
@@ -21,7 +21,7 @@ Examples of talks that you probably do NOT want to include:
 
 * "Introduction to cool technlogy new site/framework/technology in 30 minutes!"
 
-These are probably not good fit for Beacon, as usually they just talk about
+These are probably not good fit for builderscon, as usually they just talk about
 the product's features. Remember: you want to invite people that can give
 talks that are worth actually listening to -- not talks that only describe
 the same content as the FAQ page or the product brochure.

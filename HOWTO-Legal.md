@@ -14,7 +14,7 @@ You should contact your local insurance company requesting for information on ev
 
 You SHOULD make it clear to your attendees the scope of such coverage. 
 
-(Note: we need a document for prospective Beacon organizers to read, so that they agree that the main organizers/planners of Beacon cannot be held responsible for damages or lack of insurance coverage when an incident occurs)
+(Note: we need a document for prospective builderscon organizers to read, so that they agree that the main organizers/planners of builderscon cannot be held responsible for damages or lack of insurance coverage when an incident occurs)
 
 ## Permits
 
