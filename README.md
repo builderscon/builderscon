@@ -12,7 +12,7 @@ This document describes what builderscon is, and what is required to host a buil
 
 * [HOWTO: Call For Paricipation](HOWTO-CFP.md)
 * [HOWTO: Media](HOWTO-Media.md)
-* ["Consent to Civility"](Consent-to-Civility.md)
+* ["Consent To Civility"](Consent-To-Civility.md)
 
 ## Website
 
