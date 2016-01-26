@@ -1,3 +1,16 @@
+# Team/Organization
+
+## Organization
+
+Nowadays it is important to have a cohesive structure within a conference organizer's team so that where certain responsibilities fall onto are clearly defined.
+
+The details of how decisions are made, or who is responsible should be handled
+independently based upon the needs of the actual persons running the organization, however we require that several persons with key responsibilities and roles be available at all times.
+
+A single "chair" person MUST exist that can either be the person with ultimate ruling power / ultimately accountable for matters related to the conference in an organization with a centralized administration model, or be the person who can be the tie-breaker if using a comittee model.
+
+TODO: I feel like there are more roles that should exist in all types of builderscon. Add more later
+
 ## Volunteers
 
 Most likely your builderscon will require the help of at least a handful of
