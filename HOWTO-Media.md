@@ -13,3 +13,10 @@ While the main purpose of an event is to gather and have fun, the organizers MUS
 * Talk videos SHOULD be released, provided that you can get consent from your speakers.
 * Videos released afterwards is preferred over live streaming if you can only offer one or the other.
 * Videos SHOULD be released publicly.
+* Talk videos, if public, MUST show proper usage rights: distribution, commercial/non-commercial, etc.
+
+### Video Transcripts and Translations
+
+TODO: Need a proper how-to on ways to provide translations
+
+Videos SHOULD have transcripts, and possibly translations. The master transcript MUST be in English -- therefore, if a talk is given in a language X, a transcript for that language AND a transcript for English must be created. After than, translations can be created for other languages in an as-needed basis.
