@@ -46,3 +46,16 @@ approximate the occupancy, etc.
 If possible, announce current status for each room on online media such as
 twitter/slack/IRC, so that attendees can decide if they can/should take the
 time to move to a different room
+
+# Swags
+
+Handling conference swags is an important part of conferences that has sponsorship. As an organizer keep in mind that it is an important responsibility for you to make sure that as many attendees as possible go home with your sponsors' swag: this is at least part of the reason your sponsors are sponsoring you.
+
+To maximize the chances of your attendees taking your swag with them, it is recommended that you prepare a set of swags (possibly in a bag so it's easy to take home) that can easily be picked up.
+
+There are services that do this for you before hand: you send them boxes of swags from various sponsors and bags to place them in, and they do the manual labor of putting them together in one piece.
+
+If for whatever reason you cannot afford to outsource this to such services, you will have to arrange your staff to do this for you.
+
+TODO: Add ways we have been doing this?
+
