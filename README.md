@@ -10,6 +10,7 @@ This document describes what builderscon is, and what is required to host a buil
 
 ## INDEX
 
+* [Synopsis](Synopsis.md) - What is `builderscon`?
 * [HOWTO: Call For Paricipation](HOWTO-CFP.md)
 * [HOWTO: Media](HOWTO-Media.md)
 * ["Consent To Civility"](Consent-To-Civility.md)
