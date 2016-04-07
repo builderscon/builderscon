@@ -6,7 +6,7 @@ This document is intendend to be read by those who are curious about what builde
 
 
 ## Abstract
-## 概要
+## 要約
 
 `builderscon` is about *passion* for tech, a conference for all the people who love tech. `builderscon` grew out of a massively successful community driven polyglot event known as "YAPC::Asia Tokyo" which ran between 2006 and 2015.
 buildersconは技術への情熱であり、技術を愛するすべての人のためカンファレンスです。
