@@ -59,3 +59,8 @@ If for whatever reason you cannot afford to outsource this to such services, you
 
 TODO: Add ways we have been doing this?
 
+# Resources
+
+| Name         | URL                        | Notes |
+|--------------|----------------------------|-------|
+| 丸福サービス | http://www.maruhuku.co.jp/ | 袋詰め等 |
