@@ -1,6 +1,15 @@
 # builderscon
 
-builderscon is a conference for modern age builders and architects.
+**builderscon** is a festival for engineers.
+
+When you think about "Technical conferences", what do you expect?
+When _we_ say we want to hold a conference, we actually mean a fun, laid down festival for anybody who wants to share their experiences, new ideas, and most of all, the love for technology.
+
+Our roots can be found in the series of conferences called YAPC::Asia Tokyo, where, in spite of its name, programmers from almost any genre were welcome. It was a true polyglot conference. The focus of the conferences were on the engineers -- the "builders" of our age, and not a particular language, product, or a community. We just wanted to listen and talk about good, geeky, and satisfying stories related to our technology.
+
+**builderscon** takes this spirit, and attempts to carry it further.  builderscon gathers anything and everything that is interesting, anything that the actual builders -- you -- are interested to discuss. We the audience want to hear about your passion on technology.
+
+## Purpose of this document
 
 This document describes what builderscon is, and what is required to host a builderscon.
 
