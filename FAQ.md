@@ -1,5 +1,7 @@
 # FAQ
 
+[日本語](translations/ja/FAQ.md)
+
 ## Is this about carpentry and construction? Or maybe IoT?
 
 No. This conference is intended for the _digital_ builders of the modern world.
