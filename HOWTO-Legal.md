@@ -1,5 +1,7 @@
 # Legal Stuff
 
+[日本語](translations/ja/HOWTO-Legal.md)
+
 ## Insurance
 
 You SHOULD prepare for accidents such as your staff or the attendees hurting themselves during the conference, and as a result perhaps damaging the venue. For small scale conferences this may not be a big issue, but if your conference grows to over several hundred people, you MUST consider taking an insurance policy.

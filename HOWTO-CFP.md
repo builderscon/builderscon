@@ -1,5 +1,7 @@
 # Call For Paper/Participations
 
+[日本語](translations/ja/HOWTO-CFP.md)
+
 Like any conference, the main attraction for builderscon is the talks that the participants bring.
 
 You should treat your would-be participants with as much respect as you can, provided that they do not make it problematic to proceed with the event organization.
