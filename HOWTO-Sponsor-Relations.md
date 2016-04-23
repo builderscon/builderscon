@@ -34,4 +34,6 @@ In builderscon we do not offer "Platinum", "Gold", "Silver", "Bronze" sponsorshi
 
 
 
+# See also
 
+[Sponsorship.md](Sponsorship.md) - List of possible sponsorship items
