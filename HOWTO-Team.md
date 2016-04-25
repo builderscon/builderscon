@@ -24,7 +24,7 @@ how to treat your volunteers
 The biggest mistake we have seen regarding the treatment of volunteers is when
 you only treat them as mere "resources". Instead, we would like to recommend 
 that you treat them more like "extremely helpful attendees". The idea is for
-them to have fun: you still many need to ask them to work hard, but that doesn't
+them to have fun: you still may need to ask them to work hard, but that doesn't
 mean you are free to just use their time. Be prepared so that the volunteers
 can help you run your event without worrying about other things.
 
