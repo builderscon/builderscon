@@ -68,3 +68,13 @@ This is also a great way to build your team. We recommend that you have a
 gathering before the event. This will make sure that your volunteers know
 about each other before hand.
 
+#### Take photos!
+
+The volunteer team that you gather is probably a one-time thing -- i.e.
+you will probably never have the same team again. Do yourself a favor, and
+always take a group photo. This is a subtle but significant gesture, as
+your volunteers will be able to look back and feel that they were part of a
+team.
+
+Note that if you have a multi-day conference, it is important that you take
+photos *EVERY* day, because your team *WILL* be different from day to day.
