@@ -1,5 +1,7 @@
 ## Tickets
 
+[日本語](translations/ja/HOWTO-Tickets.md)
+
 While there are successful cases of conferences being held where tickets
 are not required to be admitted, We do NOT recommend doing this. 
 (TODO: elaborate)
