@@ -1,5 +1,7 @@
 # Synopsis
 
+[日本語](translations/ja/Synopsis.md)
+
 This document is intendend to be read by those who are curious about what builderscon is.
 
 ## Abstract
