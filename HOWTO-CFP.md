@@ -70,3 +70,11 @@ If your sponsors insist on giving talks, make sure that they understand:
 * You MUST NOT use the talk slot to pitch a product or solution. Mentioning is is allowed, but it MUST NOT be the main content.
 
 It is your responsibility as the organizer to make the conference worthwhile for your main audience, as well as for the sponsors. You MUST always keep the quality of the talks up to expectations to make this happen.
+
+## Nice To Have: Guest/Keynote Speakers
+
+It is generally not a requirement to have guest speakers, but if you can
+afford to do so, you may want to call guest/keynote speakers before the
+CFP process starts. This is mainly to facilitate prospective speakers to
+understand what kind of talks the conference is expecting, which lowers the
+bar of entry.
