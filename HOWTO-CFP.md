@@ -30,6 +30,30 @@ the same content as the FAQ page or the product brochure.
 
 * You MUST ask for consent on being recorded and/or photographed.
 
+### Tip: How To Set Prospective Speakers' Expectations 
+
+Prospective speakers sometimes do not know if the subject that they would like
+to submit fits the conference. This is a situation we would like to avoid as much as possible.
+
+Many conferences list possible topic for talks that they would like to see: e.g.
+"Language", "Community", "Big Data", "Career Development", etc. These are
+good indicators, but can be too restrictive for conference like builderscon.
+Speakers may be lead to thinking that the listed topics are the only topics
+which will be accepted, when it's not that case.
+
+Instead, consider wording your CFP in such a way that you tell your speakers
+what you want the audience to get as a result of watching their talks. For
+example:
+
+* "We are looking for talks that allow beginners to enjoy and learn something new"
+* "We welcome talks that appeal to professionals with 10+ yrs of experience"
+* "Talks that will enlighten us about fields which are are not generally considered mainstream to Web engineers are highly appreciated"
+
+Also, consider announcing guest/keynote speakers before the CFP.
+It is generally not a requirement to have guest speakers, but having examples
+of speakers tell a whole lot more about the types of talks that people
+can expect in your conference than a few hundred word essay on it.
+
 ## Format
 
 Proposals MUST contain enough detail that prospective attendees will be
@@ -71,10 +95,3 @@ If your sponsors insist on giving talks, make sure that they understand:
 
 It is your responsibility as the organizer to make the conference worthwhile for your main audience, as well as for the sponsors. You MUST always keep the quality of the talks up to expectations to make this happen.
 
-## Nice To Have: Guest/Keynote Speakers
-
-It is generally not a requirement to have guest speakers, but if you can
-afford to do so, you may want to call guest/keynote speakers before the
-CFP process starts. This is mainly to facilitate prospective speakers to
-understand what kind of talks the conference is expecting, which lowers the
-bar of entry.
