@@ -30,6 +30,21 @@ the same content as the FAQ page or the product brochure.
 
 * You MUST ask for consent on being recorded and/or photographed.
 
+## Format
+
+Proposals MUST contain enough detail that prospective attendees will be
+able to understand *exactly* what the talk is about. Proposals need not
+be in proper essay format, but should at least contain bullet proof list
+of items that will be discussed.
+
+The exact amount of detail required will vary depending on many circumstances,
+but do let them know that the difference in the amount of detail will have
+an impact on which talks are selected.
+
+Should you find proposals that require more detail, you may want to contact
+the submitter directly and gently ask for more information for the talk to
+have higher chance of acceptance.
+
 ## Feedback
 
 * You MUST give specific dates for you to return feedback to talk submissions as to if they were accepted or not.
