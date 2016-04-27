@@ -47,7 +47,7 @@ example:
 
 * "We are looking for talks that allow beginners to enjoy and learn something new"
 * "We welcome talks that appeal to professionals with 10+ yrs of experience"
-* "Talks that will enlighten us about fields which are are not generally considered mainstream to Web engineers are highly appreciated"
+* "Talks that will enlighten us about fields which are not generally considered mainstream to Web engineers are highly appreciated"
 
 Also, consider announcing guest/keynote speakers before the CFP.
 It is generally not a requirement to have guest speakers, but having examples
