@@ -12,13 +12,15 @@ builderscon (as of this writing "plans to", but in the future we should make thi
 * Multi-media resource describing the event
 * Flyers for the casual attendees
 
-These are material that do not frequently change, and hence builderscon will provide them.
+These are material that do not frequently change, and hence builderscon will provide them. Usually they are bundled in a form called "prospectus".
 
 If you are a new organizer, you MUST prepare staff to keep record of what your builderscon was like. This may include photographs, videos, and blog posts. These SHOULD be released under terms that allow non-commercial use with proper attribution. (Note: We may need to create a special case for usage within the builderscon framework -- as it *may* be necessary for builderscon to create commercial material)
 
 ## Pitching
 
 Here are some advice that may be able to help you better prepare yourself to convince potential sponsors:
+
+### Start with 
 
 ### Do NOT Assume
 

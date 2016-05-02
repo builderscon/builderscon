@@ -62,4 +62,34 @@ As stated in the description, most attendees will look at these advertisements. 
 
 Sponsor must provide high-resolution advertisement data. Organizers must provide exact specification of the advertisement slot, and must make sure to check the advertisement data before hand to make sure they do not contain messages that are not appropriate for conferences.
 
+## Swag Bag Sponsorship
+
+### Description
+
+Those who purchased this sponsorship can either 
+
+* Provide us with just the design to place on the bags, or
+* Provide us with the actual bags
+
+The former option should be much more expensive than the latter (e.g. 2.5 times or so more). The benefit of the former for the sponsor is that they can will not need to spend money or keep track of number of bags they order. However, they will have no control over the final quality of the bag. The latter imposes more responsibilities to the sponsor, but they are in full control of quality of the bag, as well as having to pay less.
+
+Make sure to order bags with gussets. Participants tend to collect a fair number of swags during the conference, and therefore is much easier for them to carry these in bags with gussets.
+
+### Cost
+
+Varies. Each bag costs about some where around $3 to $5 when ordered in bulk, so add the premium that your conference can ask for on top of this.
+
+### Perks
+
+Every attendee gets a bag and they will go home holding one, so the marketing ROI is pretty high. This is especially true in Japan where most attendees will use some sort of public transportation.
+
+### Responsibilities
+
+If the sponsor is providing the design only, then sponsor must provide high-resolution design data.
+Organizers must provide exact specification of the bag.
+
+If the sponsor is providing the entire bag, organizers must provide the number of bags that is required in advance.
+
+For either options organizers must make sure to check the design data before hand to make sure they do not contain messages that are not appropriate for conferences.
+
 ## (More to come later...)
