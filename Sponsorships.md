@@ -66,7 +66,7 @@ Sponsor must provide high-resolution advertisement data. Organizers must provide
 
 ### Description
 
-Those who purchased this sponsorship can either 
+Those who purchase this sponsorship can either
 
 * Provide us with just the design to place on the bags, or
 * Provide us with the actual bags
@@ -91,5 +91,27 @@ Organizers must provide exact specification of the bag.
 If the sponsor is providing the entire bag, organizers must provide the number of bags that is required in advance.
 
 For either options organizers must make sure to check the design data before hand to make sure they do not contain messages that are not appropriate for conferences.
+
+## Simultaneous Interpretation / Translation Sponsor
+
+### Description
+
+When running international conferences in non-English speaking locations, you may need to accomodate interpretors/translators. This sponsorship will be used to hire them.
+
+### Cost
+
+Costs vary, but interpretors require more than language skills to be effective, and therefore tend to be relatively expensive. From experience these cost somewhere around 1,000,000 for six to eight, hour long sessions.
+
+It is usually better to split the costs between a few sponsors.
+
+### Perks
+
+Interpretors for conferences in markets where the locals mainly speak in a non-English language are highly appreciated by all sides as English speaking guests require assistance as well as locals.
+
+Sponsor names will appear on pamphlets, and their names will be announced at the start and end of the translations.
+
+### Responsibilities
+
+No action is required from the sponsors.
 
 ## (More to come later...)
