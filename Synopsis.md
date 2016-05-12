@@ -14,6 +14,8 @@ The atmosphere is relaxed: You are welcome whatever your backgrounds are, as lon
 
 For conference sessions, we want to listen to talks that gets us engineers *excited*. Show us your crazy hacks. Tell us about your massive failures and how you solved these problems. Take us to unknown territories of future tech. And because in order to have speakers that are capable of giving us these stories, we do not limit the scope of talks to a particular computer language, community, etc. We may set particular themes for each instance, but in general the speakers are free to talk anything that fuels their passion. The only thing we ask is that you talk about things that gets the engineers motivated and excited: no listing of product specs, no introduction to your new Web application framework de jour, etc.
 
+We also believe that we should provide our attendees with opportunities to encounter new ideas and keywords, and experience the unknown. This is an important aspect that can only be achieved through this sort of real-life events, even in the post-internet age that we live in.
+
 YAPC::Asia Tokyo was organized pretty much this way, and in particular in 2015, has attracted over 2,000 professional and aspiring engineers from all around. Us engineers are all craving to hear these talks. `builderscon` aims to take the spirit that made these events such a success, and bring it to the next level so more people can share their knowledge and experience.
 
 Please come and share your passion! We want to hear your story!
