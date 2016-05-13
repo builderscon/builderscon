@@ -59,6 +59,12 @@ If for whatever reason you cannot afford to outsource this to such services, you
 
 TODO: Add ways we have been doing this?
 
+# Catering
+
+* Special needs: Halaal, Vegan, Allergies.
+* Quantity: do NOT order "just the right amount". Always order 10%~20% more. While leftover food should be minimized, inadequate suplly is never a good idea
+* Know your audience: Are they there to eat a meal? to drink and socialize? just for snacks?
+
 # Resources
 
 | Name         | URL                        | Notes |
