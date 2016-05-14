@@ -1,5 +1,7 @@
 # Staff Preparations
 
+[日本語](translations/ja/HOWTO-Onsite-Operations.md)
+
 ## Staff "Uniforms"
 
 Organizers SHOULD make the event staff easily be identifiable by whatever
