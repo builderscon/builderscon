@@ -25,3 +25,12 @@ This should be clear to the speaker BEFORE the talk begins.
 ### Q&A time
 
 By definition builderscon talks should include an extra 10 minutes for Q&A. You should explicitly state this fact to your speakers.
+
+## Miscellaneous Tips On Your Session
+
+### Try to keep self-introduction brief
+
+While it is always a good idea to tell your audience who you are, remember
+that your audience is there to listen to your talk, not about you. Keep your
+introduction brief, and save it for later when you meet them at the hallway
+or at the conference dinner.
