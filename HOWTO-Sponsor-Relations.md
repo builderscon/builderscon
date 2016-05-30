@@ -20,8 +20,6 @@ If you are a new organizer, you MUST prepare staff to keep record of what your b
 
 Here are some advice that may be able to help you better prepare yourself to convince potential sponsors:
 
-### Start with 
-
 ### Do NOT Assume
 
 We suppose you will have to explain and discuss about the merits of sponsoring a builderscon. You MUST keep in mind that those making the financial decisions are not necessary those who understand what builderscon stands for. Therefore, you MUST NOT assume that potential sponsors will automatically understand the value that sponsoring a builderscon will bring.
@@ -34,7 +32,27 @@ In builderscon we do not offer "Platinum", "Gold", "Silver", "Bronze" sponsorshi
 
 (Note: Write more about this)
 
+## Miscellaneous
 
+(These may seem obvious, but many people forget to do this)
+
+### Tell your sponsors the schedule of events
+
+By schedule, we mean things like when you expect proposal submissions start, when you expect your ticket sales to start/end, AND when you expect the sponsors must send in materials, including swags.
+
+It is important for your sponsors to know the overall schedule.
+
+### Specify the size of your swags
+
+This is extremely important if you are thinking of bagging the swags in a bag. Make sure to specify exactly what the expected dimensions/shape of the swags are.
+
+### Specify the number of your swags
+
+Make sure to specify the number of swags that each sponsor should send.
+
+### Specify exactly when/where swags should be sent to
+
+Swags cannot be processed (i.e. bagged, and what not) until all of them arrive. You should be clear and explicit about when/where the sponsor swags must arrive.
 
 # See also
 
