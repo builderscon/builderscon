@@ -1,5 +1,7 @@
 # Team/Organization
 
+[日本語](translations/ja/HOWTO-Team.md)
+
 ## Organization
 
 Nowadays it is important to have a cohesive structure within a conference organizer's team so that where certain responsibilities fall onto are clearly defined.
@@ -64,7 +66,7 @@ experience fun.
 
 If you can afford to do so, create time for some activities before or after
 the event, a drinkup, a barbecue, or whatever else suit your situation.
-This is also a great way to build your team. We recommend that you have a 
+This is also a great way to build your team. We recommend that you have a
 gathering before the event. This will make sure that your volunteers know
 about each other before hand.
 
