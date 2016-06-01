@@ -1,10 +1,12 @@
 # Sponsorships
 
-We recommend `builderscon` organizers not to use a generic sponsorship plans that are commonly used, where a price tag is slapped onto plans named "platinum", "gold", "silver", etc.
+We recommend `builderscon` organizers *not* to use a generic sponsorship plans that are commonly used, where a price tag is slapped onto plans named "platinum", "gold", "silver", etc.
 
-We feel that while these plans are easier on the organizers, they present no value in helping the sponsors visualize what exactly their sponsorship fees will be used for. Also, generic plans like these may not include the specific type of sponsorship that they want: for example, previously we have had a sponsor come to us saying that while they would like to contribute a fairly large amount of money to our event, they did not want too much exposure. Upon listening to their reasoning, it made sense, but with generic plans, it becomes harder to find a good landing point where all sides can agree on.
+We feel that while these plans are easier on the organizers, they present no value in helping the sponsors visualize what exactly their sponsorship fees will be used for. Generic plans like these may not include the specific type of sponsorship that they want: for example, previously we have had a sponsor come to us saying that while they would like to contribute a fairly large amount of money to our event, they did not want too much exposure. Upon listening to their reasoning, it made sense, but with generic plans, it becomes harder to find a good landing point where all sides can agree on.
 
 We instead recommend coming up with a catalogue of sponsorship items that the sponsors can mix and match. In this document, we list a few possible items that have actually been used in the past. As a `builderscon` organizer, you are not obliged to use these exact items. Feel free to choose (or not choose) to use any of these, depending on your specific needs.
+
+At the same time, however, do not forget to provide examples on how sponsors might be able to bundle a set of sponsorships.
 
 # List of possible items
 
