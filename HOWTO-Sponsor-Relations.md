@@ -32,6 +32,47 @@ In builderscon we do not offer "Platinum", "Gold", "Silver", "Bronze" sponsorshi
 
 (Note: Write more about this)
 
+## Keeping Track Of Sponsors
+
+If this the first time you organize a conference with many sponsors, you will quickly realize that you forgot to collect crucial data after companies start to pledge for sponsorship. After all, it is extremely hard to know which information you needed unless you have already been burnt by having to scramble for it after you realized you needed it.
+
+Below are some of the information that we think would be most important to keep track of.
+
+### Contact Information
+
+Contact information includes the following:
+
+* Name of corporation/entity
+* Name of contact person
+* Division/department of the contact person
+* Email address of the contact person
+* Physical address of the corporation/entity
+
+These are usually provided to you the first time you exchange information, or in emails that the contact person sent you. This is my advice: do NOT assume that you will be able to find these information later from the original email, business card, etc, that you were *so* sure you saved somewhere.
+
+Instead, the moment you know that they are seriously pledging for sponsorship, write this all down in a centralized spreadsheet or the like. You *will* need this later.
+
+Also, it is always a good idea to get a hold of extra contacts within the same group as your contact person. It is extremely common for your contact person to quit the job while you are still discussing details, or that the contact person just forgets to relay a message to their boss or colleague and leave for a vacation.
+
+### Dates
+
+You should keep track of dates. By dates we mean the dates when you sent out crucial information. For example, the dates that:
+
+* The call for sponsorship was first sent
+* The confirmation of sponsorship pledge was sent
+* The invoice for the sponsorship was sent
+* The company logo was received
+
+It is important to know how long it has been since the last communication happened, as pinging the sponsors could sometimes be a delicate task: You do not want to ping them too often that they get annoyed, but you also need to know exactly when to start panicing.
+
+### Sponsorship details
+
+This is obvious, but you should keep track of the exact sponsorship detail for each sponsor. 
+
+* Items that the sponsor pledged for
+* Discounts that you have made, if any
+* Special considerations, if any
+
 ## Miscellaneous
 
 (These may seem obvious, but many people forget to do this)
