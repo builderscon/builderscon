@@ -67,6 +67,27 @@ TODO: Add ways we have been doing this?
 * Quantity: do NOT order "just the right amount". Always order 10%~20% more. While leftover food should be minimized, inadequate suplly is never a good idea
 * Know your audience: Are they there to eat a meal? to drink and socialize? just for snacks?
 
+# Lightning Talks
+
+Lightning talks require special type of caring: You should not just expect speakers to show up and have everything magically work.
+
+## Speakers
+
+* Have a list of speakers in the expected order ready. 
+* Make sure to create a time slot ahead of the session to allow speakers to plug into the projectors and make sure they have connectivity.
+* Make sure to call the speakers to do the above connectivity check before the alloted time slot. If anybody has not showed up, and they have not done the connectivity check, call them up again.
+* Gather your speakers close to the stage before the session starts.
+
+## Staff
+
+* If you have a gong ready, make sure to practice hitting it a couple of times before hand.
+* Gongs should be rang at the end of the talk, regardless of if the speaker reached the 5 minute limit or not. Hit the gong softly if the speaker ended early, and firmly if they reached the time limit.
+* It is the responsibility of the staff to give the speakers the go sign. DO NOT wait them to ask you.
+
+## Miscellaneous
+
+* If possible, consider having time fillers between lightning talks, when the speaker takes time to connect their equipment.
+
 # Resources
 
 | Name         | URL                        | Notes |
