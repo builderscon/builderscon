@@ -8,6 +8,11 @@ While the main purpose of an event is to gather and have fun, the organizers MUS
 * You SHOULD use a professional photographer to do this. There are exceptions, but photos from enthusiasts are usually not comprable to those by professional photographers. Future participants will most likely see one of your photos to decide what builderscon is about: It is *extremely* important to make them best quality photographs that you can get.
 * Photos MUST be released publicly. You MAY provide for-purchase or exclusively available photos, but ample photographs should be available for free, to benefit future builderscon events.
 
+Some suggestions on photoshooting:
+
+* Photos taken during the session should be focused on the speaker, their slides, and possibly the stage.
+* Only include the audience if the session is near full. Sparse rooms don't give great impression to the viewers.
+
 ## Talk Videos
 
 * Talk videos SHOULD be released, provided that you can get consent from your speakers.
