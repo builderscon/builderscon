@@ -67,6 +67,10 @@ TODO: Add ways we have been doing this?
 * Quantity: do NOT order "just the right amount". Always order 10%~20% more. While leftover food should be minimized, inadequate suplly is never a good idea
 * Know your audience: Are they there to eat a meal? to drink and socialize? just for snacks?
 
+# MC
+
+If there's time for questions, make sure the MC asks the audience for takers. If there are none, DO NOT keep the speaker on stage more than you have to. Please try to minimize the awkward silence that the speaker has to endure by taking the initiative to end the session at the approrpriate moments.
+
 # Lightning Talks
 
 Lightning talks require special type of caring: You should not just expect speakers to show up and have everything magically work.
