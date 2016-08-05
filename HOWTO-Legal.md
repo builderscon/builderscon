@@ -2,6 +2,18 @@
 
 [日本語](translations/ja/HOWTO-Legal.md)
 
+## Enforcing The Code of Conduct
+
+builderscon organizers and attendees MUST adhere to our [Code of Conduct](./Code-of-Conduct.md)
+
+### Reporting / Reaction
+
+Organizers MUST explicitly create communication channels that allow attendees to report should anything happen. Conversations related to reports MUST be kept private, unless local law requires otherwise.
+
+Organizers MUST act swiftly upon recieving such reports. When incidents deal
+with threats or possibility of threats, organizers MUST take proper course of
+action including removal of accused from the conference.
+
 ## Insurance
 
 You SHOULD prepare for accidents such as your staff or the attendees hurting themselves during the conference, and as a result perhaps damaging the venue. For small scale conferences this may not be a big issue, but if your conference grows to over several hundred people, you MUST consider taking an insurance policy.
