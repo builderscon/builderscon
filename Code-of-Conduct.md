@@ -1,6 +1,6 @@
 # Code of Conduct
 
-All builderscon related events must have a Code of Conduct (CoC). Attendees are required to read and agree to it. Event organizers must have clear instructions on how to report violations of the CoC (organizers may need to setup forms, mailing lists, or other tools to accept reports).
+All builderscon related events must have a Code of Conduct (CoC). All participants are required to read and agree to it. Event organizers must have clear instructions on how to report violations of the CoC (organizers may need to setup forms, mailing lists, or other tools to accept reports).
 
 The "master" version currently resides in [Google Docs](https://docs.google.com/document/d/16VhNCZBWWwjQQXkSXfg6evR1frdHHbHb7g-m80xSrgA/edit?usp=sharing). Below is a copy made available for easier grepping and diffing.
 
