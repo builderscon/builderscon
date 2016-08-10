@@ -1,39 +1,50 @@
-##Code of Conduct##
+# Code of Conduct
 
-builderscon is a community event intended for education, networking and collaboration in the technology field.
+All builderscon related events must have a Code of Conduct (CoC). Attendees are required to read and agree to it. Event organizers must have clear instructions on how to report violations of the CoC (organizers may need to setup forms, mailing lists, or other tools to accept reports).
 
-We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout all builderscon-related events.
+The "master" version currently resides in [Google Docs](https://docs.google.com/document/d/16VhNCZBWWwjQQXkSXfg6evR1frdHHbHb7g-m80xSrgA/edit?usp=sharing). Below is a copy made available for easier grepping and diffing.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any builderscon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+---
 
-##The Short Version##
+# Code of Conduct
 
-builderscon is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of event participants in any form.
+builderscon is a series of community events for knowledge-sharing, communication, and collaboration, focusing mainly on technology.
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any presentation given at a builderscon event.
+Our prime goal is to provide events where all of the attendees can enjoy, and feel welcome to attend. To this end, we expect all who participate in our events to be courteous and be civil towards one another.
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate at a builderscon event.
+We ask that all participants including, but not limited to, the organizers and staff, speakers, exhibitors, and attendees to follow this Code of Conduct.
 
-Attendees violating these rules may be asked to leave the event at the sole discretion of the event managers.
 
-Thank you for helping to make this a welcoming, friendly space for all.
+We welcome all participants. We do not tolerate harassment of any form. 
 
-##The Longer Version##
+Be kind to others, and be mindful to the fact that there are participants from many different backgrounds, and that your casual actions may not be so to others. For this, we do not tolerate harassment of any form, including, but not limited to, sexual language and imagery at presentations, or sexist, racist, or exclusionary jokes. 
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+If a participant engages in behavior that violates this code of conduct, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event or conference with no refund, or alerting local law officers.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+If you or another participant has been subject to harassment, contact a builderscon staff nearby, or look for the appropriate contact page on the event in question, which they must clearly display. Reports will be handled anonymously unless local laws require disclosure, or both the organizers and the reporter and/or the person subjected to the harassment have agreed to disclosure.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Offensive jokes are not appropriate and will not be tolerated under any circumstance at GitHub events.
+* This CoC is loosely based on GitHub Patchwork CoC https://github.com/dice/github_code_of_conduct/blob/master/en.md
+* This document is licensed under Creative Commons Zero https://creativecommons.org/publicdomain/zero/1.0/
 
-If a participant engages in behavior that violates this code of conduct, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event or conference with no refund.
 
-##Contact Information##
+---
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a builderscon staff.
+# 行動規範
 
-builderscon staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
+builderscon は、主に技術業界における情報共有・交流・コラボレーションを目的とするコミュニティイベントです。
 
-##License##
+我々(builderscon運営)はすべての参加者がそのイベント・コミュニティから歓迎され、楽しんで頂くことをめざしています。
 
-This Code of Conduct was forked from the [Github Patchwork CoC](https://github.com/dice/github_code_of_conduct/blob/master/en.md) which is under a Creative Commons Zero license.
+そのためには、builderscon関連イベントにおける主催者やスタッフ、登壇者、出展者、観客などのすべての参加者の皆様は、本行動規範に則って他の参加者に対して敬意と礼儀をもってイベントに参加いただくようにお願いいたします。
+
+builderscon 関連イベントでは全ての人を歓迎します。そのために、他の参加者が不快に感じる行為はそれがどのような形であっても許容いたしません。
+
+参加者の皆さまは他の参加者の様々な背景に配慮してください。あなたの何気ない発言や行動で悲しむ人がいるかもしれません。注意深く、優しく振る舞ってください。
+
+我々運営は参加者の皆さまの権利を守るため、規範に反する方へ注意だけではなくカンファレンスから退場させたり、場合によっては法的機関への相談など、適切と思われる対応をおこないます。
+
+もしあなた、ないしは他の参加者がハラスメント行為を受けた場合、お近くのbuildersconスタッフにご相談いただくか、各カンファレンスに明記された連絡窓口にご連絡ください。お知らせ頂いた内容は法的な情報開示の必要性がある場合を除いて、あなたの同意がないかぎり匿名で扱いますのでご安心ください。
+
+* 本文章はGithub Patchwork CoCとして公開された文章を元に大幅に改変しています https://github.com/dice/github_code_of_conduct/blob/master/en.md
+* 本文章をCreative Commons Zero ライセンスで公開されています https://creativecommons.org/publicdomain/zero/1.0/
+
