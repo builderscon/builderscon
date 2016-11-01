@@ -22,7 +22,7 @@ This document describes what builderscon is, and what is required to host a buil
 * [Synopsis](Synopsis.md) - What is `builderscon`?
 * [HOWTO: Call For Participation](HOWTO-CFP.md)
 * [HOWTO: Media](HOWTO-Media.md)
-* ["Consent To Civility"](Consent-To-Civility.md)
+* [Code of Conduct (previously named "Consent To Civility")](Code-of-Conduct.md)
 
 ## Website
 
