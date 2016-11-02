@@ -72,6 +72,7 @@ have higher chance of acceptance.
 ## Feedback
 
 * You MUST give specific dates for you to return feedback to talk submissions as to if they were accepted or not.
+* You MUST promptly notify all submitters of any change in talk status (accept, decline, waitlist, etc.), preferably within a day of status change.
 * You MUST allow ample time between the feedback and the event itself, preferrable over 1 month.
 
 (Note: the idea here is to make sure the would-be speakers feel comfortable about the process. Do NOT let them hanging)
