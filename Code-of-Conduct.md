@@ -46,5 +46,5 @@ builderscon 関連イベントでは全ての人を歓迎します。そのた�
 もしあなた、ないしは他の参加者がハラスメント行為を受けた場合、お近くのbuildersconスタッフにご相談いただくか、各カンファレンスに明記された連絡窓口にご連絡ください。お知らせ頂いた内容は法的な情報開示の必要性がある場合を除いて、あなたの同意がないかぎり匿名で扱いますのでご安心ください。
 
 * 本文章はGithub Patchwork CoCとして公開された文章を元に大幅に改変しています https://github.com/dice/github_code_of_conduct/blob/master/en.md
-* 本文章をCreative Commons Zero ライセンスで公開されています https://creativecommons.org/publicdomain/zero/1.0/
+* 本文章はCreative Commons Zero ライセンスで公開されています https://creativecommons.org/publicdomain/zero/1.0/
 
